@@ -1,5 +1,8 @@
-# 💫 About Me
-Hi, It's Me **Abdullah Jarif** — a passionate learner and developer currently diving deep into **React**, **AngularJS**, and **Node.js**.
+<h1>💫 Abdullah Jarif</h1>
+<p class="intro">
+  Hi, It's me — a passionate learner and developer currently diving deep into
+  <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>.
+</p>
 
 ---
 
