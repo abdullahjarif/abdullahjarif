@@ -1,51 +1,14 @@
 <h1>💫 Abdullah Jarif</h1>
 <p class="intro">
-  Hi, It's me — a passionate learner and developer currently diving deep into
+ 🌱 Hi, It's me — a passionate learner and full stack developer currently diving deep into
   <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>.
+  💬 Ask me about Frontend => JavaScript, React, Nodejs
 </p>
 
-h1 {
-  font-size: 2.5rem;
-  color: #2c3e50;
-}
-
-.intro {
-  font-size: 1.25rem;
-  line-height: 1.6;
-}
-
-strong {
-  color: #007acc;
-}
-
-/* 🔄 Responsive Media Queries */
-@media (max-width: 768px) {
-  .container {
-    margin: 40px 20px;
-    padding: 16px;
-  }
-
-  h1 {
-    font-size: 2rem;
-  }
-
-  .intro {
-    font-size: 1.1rem;
-  }
-}
-
-@media (max-width: 480px) {
-  h1 {
-    font-size: 1.6rem;
-  }
-
-  .intro {
-    font-size: 1rem;
-  }
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 How to Reach Me
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8eTa6d6u) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mustakim.jarif.393) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdullah-jarif-28414a24a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:22-46386-1@student.aiub.edu) 
 ---
