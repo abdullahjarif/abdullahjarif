@@ -68,10 +68,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullahjarif/abdullahjarif/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullahjarif/abdullahjarif/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abdullahjarif/abdullahjarif/output/github-snake.svg" />
-</picture>
+
 
 
