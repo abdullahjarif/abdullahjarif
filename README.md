@@ -5,14 +5,7 @@ Hi, It's Me **Abdullah Jarif** — a passionate learner and developer currently 
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abdullah-jarif-28414a24a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="abdullahjarif" height="30" width="40" /></a>
-  
-<a href="https://www.facebook.com/mustakim.jarif.393" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white" alt="abdullahjarif" height="30" width="40" /></a>
-<a href="mailto:22-46386-1@student.aiub.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="abdullahjarif" height="30" width="40" /></a>
-</p>
-<a href="https://discord.gg/8eTa6d6u" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" alt="abdullahjarif" height="30" width="40" /></a>
-</p>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8eTa6d6u) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mustakim.jarif.393) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdullah-jarif-28414a24a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:22-46386-1@student.aiub.edu) 
 ---
 
 ## 💻 Tech Stack
