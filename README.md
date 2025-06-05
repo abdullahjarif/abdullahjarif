@@ -1,4 +1,5 @@
-<h1 align=center>💫 Hi, It's me Abdullah Jarif </h1>
+<h1 align="center">💫 Hi, It's me Abdullah Jarif </h1>
+<h4 align="center">🔭 Frontend Fanatic | Code Explorer | Learning for Tomorrow </h4>
 <p class="intro">
  🌱 A passionate learner and full stack developer currently diving deep into
   <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>. <br>
