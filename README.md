@@ -4,6 +4,45 @@
   <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>.
 </p>
 
+h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+}
+
+.intro {
+  font-size: 1.25rem;
+  line-height: 1.6;
+}
+
+strong {
+  color: #007acc;
+}
+
+/* 🔄 Responsive Media Queries */
+@media (max-width: 768px) {
+  .container {
+    margin: 40px 20px;
+    padding: 16px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .intro {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  .intro {
+    font-size: 1rem;
+  }
+
 ---
 
 ## 🌐 Connect with Me
