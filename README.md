@@ -69,7 +69,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abdullahjarif&color=blue)
+<div style="max-width: 100%; display: inline-block;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=abdullahjarif&color=blue" 
+    alt="Visitor Count" 
+    style="width: 100%; max-width: 200px; height: auto;"
+  />
+</div>
+
 
 
 
