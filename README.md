@@ -69,15 +69,14 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p align="center">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0038&nbdigits=6&type=page&initCount=0" 
-       title="Visitor Counter" 
-       alt="Visitor Counter" 
-       border="0" 
-       />
-  <br/>
-  <b style="color: white;">Visitors</b>
-</p>
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abdullahjarif.abdullahjarif)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact)
+
+<img src="https://github.com/abdullahjarif/abdullahjarif/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
+
 
 
 
