@@ -70,10 +70,15 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahjarif&color=brightgreen&style=for-the-badge" alt="Profile Views" width="220" style="max-width: 100%; height: auto;" />
+  <img src="https://hitwebcounter.com/counter/counter.php?page=1234567&style=0038&nbdigits=6&type=page&initCount=0" 
+       title="Visitor Counter" 
+       alt="Visitor Counter" 
+       border="0" 
+       />
   <br/>
-  <img src="https://img.shields.io/badge/Welcome-To-My%20GitHub-blue?style=for-the-badge" alt="Welcome Badge" width="220" style="max-width: 100%; height: auto;" />
+  <b style="color: white;">Visitors</b>
 </p>
+
 
 
 
