@@ -69,7 +69,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdullahjarif&color=brightgreen&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahjarif&color=brightgreen&style=for-the-badge" alt="Profile Views" width="220" style="max-width: 100%; height: auto;" />
+  <br/>
+  <img src="https://img.shields.io/badge/Welcome-To-My%20GitHub-blue?style=for-the-badge" alt="Welcome Badge" width="220" style="max-width: 100%; height: auto;" />
+</p>
+
 
 
 
