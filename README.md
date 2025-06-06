@@ -69,11 +69,42 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<div style="max-width: 100%; display: inline-block;">
+<style>
+  .visitor-counter {
+    display: inline-block;
+    padding: 8px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #3b82f6, #06b6d4, #9333ea);
+    background-size: 200% 200%;
+    animation: gradientShift 5s ease infinite;
+    transition: transform 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    max-width: 100%;
+  }
+
+  .visitor-counter:hover {
+    transform: scale(1.05);
+  }
+
+  .visitor-counter img {
+    display: block;
+    width: 100%;
+    max-width: 120px;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+</style>
+
+<div class="visitor-counter">
   <img 
     src="https://komarev.com/ghpvc/?username=abdullahjarif&color=blue" 
     alt="Visitor Count" 
-    style="width: 100%; max-width: 200px; height: auto;"
   />
 </div>
 
