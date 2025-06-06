@@ -71,11 +71,6 @@
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abdullahjarif.abdullahjarif)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&layout=compact)
-
-<img src="https://github.com/abdullahjarif/abdullahjarif/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
 
 
 
