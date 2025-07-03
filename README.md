@@ -4,7 +4,7 @@
  🌱 A passionate learner and full stack developer currently diving deep into
   <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>. <br>
   💬 Ask me about Frontend => JavaScript, React, Nodejs <br>
-  🔭 I’m currently working on: TechWisdom Web Solution LTD. as UI/UX Designer
+  🔭 I’m currently working on: TechWisdom Web Solution LTD. as Full Stack Developer
 </p>
 
 
