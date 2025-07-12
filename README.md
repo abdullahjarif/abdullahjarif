@@ -2,7 +2,7 @@
 <h4 align="center">🔭 Frontend Fanatic | Code Explorer | Learning for Tomorrow</h4>
 
 <p align="center">
-  🌱 Passionate learner and full-stack developer diving deep into <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>.<br>
+  🌱 Passionate learner and full-stack developer diving deep into <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>. <br>
   💬 Ask me about Frontend => JavaScript, React, Node.js<br>
   🔭 Currently working as a Full Stack Developer at TechWisdom Web Solution LTD.
 </p>
@@ -10,7 +10,6 @@
 ---
 
 ## 🌐 How to Reach Me
-
 <p align="center">
   <a href="https://discord.gg/8eTa6d6u">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
@@ -96,14 +95,16 @@
 ---
 
 ## 💡 Notable Projects
-### 1. [Project Name](#) - Description of the project with key technologies used.
-### 2. [Project Name](#) - Description of another project showcasing your expertise.
-### 3. [Project Name](#) - Showcasing your skills in AI/ML or data-driven development.
+### 🌟 [Project Name](#) - Cutting-edge web app built with React and Node.js, leveraging modern tech stacks for seamless user experiences.
+### 🌟 [Project Name](#) - A groundbreaking AI-powered tool developed with Python and TensorFlow, enabling personalized content recommendations.
+### 🌟 [Project Name](#) - Full-stack application with integrated MongoDB for secure and scalable data management, using Next.js and Tailwind CSS for responsive design.
 
 ---
 
 ## 🎯 Looking for Opportunities
-I am open to collaborations, freelance opportunities, and full-time roles. Let's connect and build something amazing together! Feel free to reach out through any of the platforms above.
+I’m always excited to collaborate, contribute, and grow in dynamic tech environments. Whether it’s a challenging freelance project or a full-time role, feel free to reach out. Let’s create something extraordinary together!
+
+Feel free to connect through my [social links](#) above, or email me directly at [22-46386-1@student.aiub.edu](mailto:22-46386-1@student.aiub.edu).
 
 ---
 
