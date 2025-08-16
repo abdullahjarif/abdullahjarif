@@ -64,7 +64,7 @@
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&layout=pie)](https://github.com/abdullahjarif/github-readme-stats)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=dark&hide_border=false)
 
