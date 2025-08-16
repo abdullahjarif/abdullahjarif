@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,express,ts,js,html,css,tailwind,bootstrap,java,cpp,cs,dotnet,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,express,ts,js,html,css,tailwind,bootstrap,java,cpp,python,mysql" />
 </div>
 
 ### 🌐 Frontend
@@ -30,10 +30,16 @@
 </div>
 
 ### 🛠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,express,mysql" />
+</div>
 
 ### 🧠 AI/ML & Data
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,python" />
+</div>
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
