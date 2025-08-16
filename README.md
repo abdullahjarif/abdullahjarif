@@ -1,82 +1,142 @@
-<h1 align="center">💫 Hi Pals, It's me Abdullah Jarif </h1>
-<h4 align="center">🔭 Frontend Fanatic | Code Explorer | Learning for Tomorrow </h4>
-<p class="intro">
- 🌱 A passionate learner and full stack developer currently diving deep into
-  <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>. <br>
-  💬 Ask me about Frontend => JavaScript, React, Nodejs <br>
-  🔭 I’m currently working on: TechWisdom Web Solution LTD. as Full Stack Developer
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdullah Jarif | Full Stack Developer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: white;
+        }
 
+        header {
+            text-align: center;
+            margin-top: 50px;
+        }
 
----
+        header h1 {
+            font-size: 2.5em;
+            color: #61DAFB;
+        }
 
-## 🌐 How to Reach Me
+        header h4 {
+            font-size: 1.5em;
+            color: #E34F26;
+        }
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8eTa6d6u) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mustakim.jarif.393) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdullah-jarif-28414a24a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:22-46386-1@student.aiub.edu) 
----
+        .intro {
+            font-size: 1.1em;
+            margin-top: 20px;
+        }
 
-## 💻 Tech Stack
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
 
-### 🧠 Languages & Tools
+        .social-links a {
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px;
+            font-size: 1.3em;
+            border-radius: 8px;
+            transition: background-color 0.3s ease;
+        }
 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+        .social-links a:hover {
+            background-color: #444444;
+        }
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![AngularJS](https://img.shields.io/badge/AngularJS-%23DD0031.svg?style=flat-square&logo=angularjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
 
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+        .tech-stack img {
+            width: 50px;
+            height: 50px;
+            transition: transform 0.3s ease;
+        }
 
-### 🧠 AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+        .tech-stack img:hover {
+            transform: scale(1.2);
+        }
 
-### 🗄️ Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+        .github-stats {
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+            margin-top: 40px;
+        }
 
-### 🎨 UI/UX & Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+        .github-stats img {
+            border-radius: 8px;
+            border: 2px solid #444;
+            padding: 10px;
+        }
 
----
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+            header h4 {
+                font-size: 1.2em;
+            }
+            .social-links {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>💫 Hi Pals, It's me Abdullah Jarif</h1>
+        <h4>🔭 Frontend Fanatic | Code Explorer | Learning for Tomorrow</h4>
+        <p class="intro">
+            🌱 A passionate learner and full stack developer currently diving deep into
+            <strong>React</strong>, <strong>AngularJS</strong>, and <strong>Node.js</strong>. <br>
+            💬 Ask me about Frontend => JavaScript, React, Nodejs <br>
+            🔭 I’m currently working on: TechWisdom Web Solution LTD. as Full Stack Developer
+        </p>
+    </header>
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+    <section>
+        <h3 align="center">🌐 How to Reach Me</h3>
+        <div class="social-links">
+            <a href="https://discord.gg/8eTa6d6u" target="_blank">Discord</a>
+            <a href="https://facebook.com/mustakim.jarif.393" target="_blank">Facebook</a>
+            <a href="https://linkedin.com/in/abdullah-jarif-28414a24a" target="_blank">LinkedIn</a>
+            <a href="mailto:22-46386-1@student.aiub.edu" target="_blank">Email</a>
+        </div>
+    </section>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=dark&hide_border=false)
+    <section class="tech-stack">
+        <h3 align="center">💻 Tech Stack</h3>
+        <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    </section>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-
-
-
-
-
-
-
+    <section class="github-stats">
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+        </div>
+        <div>
+            <img src="https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=dark&hide_border=false" alt="GitHub Streak">
+        </div>
+    </section>
+</body>
+</html>
