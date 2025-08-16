@@ -31,7 +31,7 @@
 
 ### 🛠 Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
 </div>
 
 ### 🧠 AI/ML & Data
@@ -49,10 +49,10 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
 ### 🗄️ Databases
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,mysql,oracle" />
+</div>
+
 
 ### 🎨 UI/UX & Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
