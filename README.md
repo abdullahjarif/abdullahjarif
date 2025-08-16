@@ -37,7 +37,7 @@
 ### 🧠 AI/ML & Data
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,numpy" />
 </div>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
