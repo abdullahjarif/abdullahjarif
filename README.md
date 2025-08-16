@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png" width="100%" alt="Banner" />
+<!-- <img src="https://elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png" width="100%" alt="Banner" /> -->
 
 <!-- Heading -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4db8ff;">Abdullah Jarif</span></h1>
