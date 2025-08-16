@@ -62,7 +62,7 @@
 ---
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&bg_color=00000000)             
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif)](https://github.com/abdullahjarif/github-readme-stats)           
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&layout=pie)](https://github.com/abdullahjarif/github-readme-stats)
 
@@ -70,7 +70,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdullahjarif)](https://github.com/abdullahjarif/github-readme-stats)
+
 
 
 
