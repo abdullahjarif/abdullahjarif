@@ -62,7 +62,7 @@
 ---
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif)](https://github.com/abdullahjarif/github-readme-stats)           
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent)       
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&layout=pie)](https://github.com/abdullahjarif/github-readme-stats)
 
