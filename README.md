@@ -24,18 +24,10 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,express,ts,js,html,css,tailwind,bootstrap,java,cpp,cs,dotnet,python,mysql" />
 </div>
 
-### 🧠 Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=C++,HTML5,CSS3,JavaScript,Python,R,AssemblyScript,LaTeX" />
-</div>
-
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![AngularJS](https://img.shields.io/badge/AngularJS-%23DD0031.svg?style=flat-square&logo=angularjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrapl" />
+</div>
 
 ### 🛠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
