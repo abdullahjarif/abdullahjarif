@@ -62,7 +62,7 @@
 ---
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=dark&hide_border=false)
 
