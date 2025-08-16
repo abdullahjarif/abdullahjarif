@@ -55,12 +55,15 @@
 ---
 
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent)       
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent)       
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
+ ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+</div>
 
 
 
