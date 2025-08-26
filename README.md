@@ -6,8 +6,9 @@
 <h3 align="center">🚀 Full Stack Developer || Aspiring Software Engineer & Data Analysts || Exploring Deep Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code.;Where+art+meets+code+-+I+create, I solve, I deliver;Learning+%26+growing+every+day."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+code.;Learning+%26+growing+every+day.;Where+art+meets+code+%E2%80%94+I+create%2C+I+solve%2C+I+deliver" />
 </p>
+
 
 
 ---
