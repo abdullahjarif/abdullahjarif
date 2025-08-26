@@ -69,7 +69,7 @@
 </div>
 
 <div>
-  [![GitHub Profile](https://img.shields.io/badge/Profile-Visit-blue)](https://github.com/username)
+  [![GitHub Profile](https://img.shields.io/badge/Profile-Visit-blue)](https://github.com/abdullahjarif)
 </div>
 
 
