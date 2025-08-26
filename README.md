@@ -65,12 +65,9 @@
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
+[![Profile Views](https://img.shields.io/badge/Profile-Visit-blue)](https://github.com/abdullahjarif)
 </div>
 
-<div>
-  [![Profile Views](https://img.shields.io/badge/Profile-Visit-blue)](https://github.com/abdullahjarif)
-</div>
 
 
 
