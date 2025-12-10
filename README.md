@@ -64,22 +64,10 @@
  
 <div align="center">
  
-   ![Jarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent) ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
+   !(https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent) ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
  
 
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Tech Stack
-### Frontend
-
-</div>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+ 
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -103,13 +91,13 @@
 
 ### Let's Connect!  
 <p align="left">
-  <a href="https://www.linkedin.com/in/ashikur-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-jarif-28414a24a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/ashikurrdev" target="_blank">
+  <a href="https://www.facebook.com/mustakim.jarif.393" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://ashikurdev.vercel.app" target="_blank">
+  <a href="https://jarif-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
