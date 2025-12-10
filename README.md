@@ -67,15 +67,13 @@
 </div>
 
 ---
-## About Me
-I am passionate about building **real-world, scalable, and user-friendly web applications**.  
-Currently, I am exploring **Next.js, TypeScript, PostgreSQL, and Docker** to expand my skillset.  
+
 
 # 📊 GitHub Stats:
  
 <div align="center">
  
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent) ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
+   ![Jarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent) ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
 ## Current Activities
 - Exploring **Next.js** and creating modern SSR/SSG applications  
 - Working on an **ecommerce website** project  
