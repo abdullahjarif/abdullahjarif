@@ -54,16 +54,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" />
 <!-- Banner Image -->
-<img src="https://github.com/user-attachments/assets/87f8344e-5b85-4b61-9300-53d9bcc61e48" alt="Banner Image" />
-<br/>
 
-<!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Ashikur Rahmann</h1></summary>
-    <!--- typo --->
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=32AFE6&center=true&vCenter=true&width=500&lines=Frontend+Developer;MERN+Stack+Developer;Full+Stack+JS+Enthusiast;" alt="Typing SVG" /></a>
-  </ul>
 </div>
 
 ---
@@ -74,10 +65,7 @@
 <div align="center">
  
    ![Jarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent) ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
-## Current Activities
-- Exploring **Next.js** and creating modern SSR/SSG applications  
-- Working on an **ecommerce website** project  
-- Developing a **Task Manager** application  
+ 
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahjarif&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
