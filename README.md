@@ -2,7 +2,7 @@
 <!-- <img src="https://elegantthemes.com/blog/wp-content/uploads/2017/07/programming-languages-to-learn-for-wordpress-featured-image.png" width="100%" alt="Banner" /> -->
 
 <!-- Heading -->
-<h1 align="Left">Hi 👋, I'm <span style="color:#4db8ff;">Abdullah Jarif</span></h1>
+<h1 align="Left">Hey 👋, I'm <span style="color:#4db8ff;">Abdullah Jarif</span></h1>
 <h3 align="Left">🚀 Full Stack Developer || Aspiring Software Engineer & Data Analysts || Exploring Deep Learning</h3>
 
 <p align="center">
