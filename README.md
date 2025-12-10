@@ -23,35 +23,35 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="Left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,express,ts,js,html,css,tailwind,bootstrap,java,cpp,python,mysql" />
 </div>
 
 ### 🌐 Frontend
-<div align="center">
+<div align="Left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrapl" />
 </div>
 
 ### 🛠 Backend
-<div align="center">
+<div align="Left">
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs" />
 </div>
 
 ### 🧠 AI/ML & Data
 
-<div align="center">
+<div align="Left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
 </div>
 
 
 ### 🗄️ Databases
-<div align="center">
+<div align="Left">
   <img src="https://skillicons.dev/icons?i=mongodb,express,mysql,oracle" />
 </div>
 
 
 ### 🎨 UI/UX & Tools
-<div align="center">
+<div align="Left">
   <img src="https://skillicons.dev/icons?i=figma" />
 <!-- Banner Image -->
 
@@ -64,7 +64,7 @@
  
 <div align="center">
  
-   !(https://github-readme-stats.vercel.app/api?username=abdullahjarif&show_icons=true&theme=transparent) ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
+   ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abdullahjarif&theme=transparent&hide_border=false)
  
 
  
