@@ -3,10 +3,10 @@
 
 <!-- Heading -->
 <h1 align="Left">Hi 👋, I'm <span style="color:#4db8ff;">Abdullah Jarif</span></h1>
-<h3 align="center">🚀 Full Stack Developer || Aspiring Software Engineer & Data Analysts || Exploring Deep Learning</h3>
+<h3 align="Left">🚀 Full Stack Developer || Aspiring Software Engineer & Data Analysts || Exploring Deep Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code+and+ideas+into+reality;Where+creativity+meets+code;Code%2C+solve%2C+repeat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00FFFF&left=true&vLeft=true&width=600&lines=Turning+coffee+into+code+and+ideas+into+reality;Where+creativity+meets+code;Code%2C+solve%2C+repeat" />
 </p>
 
 
